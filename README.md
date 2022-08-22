@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuneneCalvin
-- 👀 I’m interested in data analysis and science
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently pursuing Mathematics and Computer Science
-- 💞️ I’m looking to collaborate on most in programming projects and web Development
+- 💞️ I’m looking to collaborate on most in Software and web Development
 - 📫 How to reach me @shawn calvin
 
 <!---
