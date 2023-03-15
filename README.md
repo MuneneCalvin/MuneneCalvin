@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋🏼 Hi, I’m Calvin Mwangi<br>🖥 I’m interested in Software and Web Development<br>♠️ I’m currently pursuing Mathematics and Computer Science<br>I’m looking to collaborate on most in Software and web Development<br>📞 How to reach me @shawn calvin<br> 🚫
+<br>👋🏼 Hi, I’m Calvin Mwangi<br>🖥 I’m interested in Software and Web Development<br>🎒 I’m currently pursuing Mathematics and Computer Science<br>♠️ I’m looking to collaborate on most in Software and web Development<br>📞 How to reach me @shawn calvin<br> 🚫
 
 
 ## 🌐 Socials:
