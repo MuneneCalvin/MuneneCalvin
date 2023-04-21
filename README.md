@@ -51,10 +51,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<hr>
 ---
-[![](https://visitcount.itsvg.in/api?id=MuneneCalvin&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MuneneCalvin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<hr>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
