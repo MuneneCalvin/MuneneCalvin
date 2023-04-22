@@ -6,7 +6,7 @@
 
 - 🌱 I’m also learning **Computer Science**
 
-- 💬 You can ask me about **Web & Sofware Development**
+- 💬 You can ask me about **Web & Software Development**
 
 - 📫 How to reach me **munenecalvn@gmail.com**
 
@@ -42,7 +42,7 @@
 
 ✅ Work collaboratively in a team
 
-✅ Meet tight deadlines
+✅ Problem solving skills
 
 ✅ Good communication skills
 
