@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **munenecalvn@gmail.com**
 
-- ⚡ Fun fact **I'm a student of ALX Software Engineering Programme**
+- ⚡ Fun fact **I'm a student of ALX Software Engineering Program**
 
 
  ## 🌐 Socials:
