@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a **MERN Stack Web App**
 
-- 🌱 I’m also learning **Redux React-Toolkit**
+- 🌱 I’m also learning **AWS Cloud Practioning**
 
 - 💬 You can ask me about **Web & Software Development**
 
