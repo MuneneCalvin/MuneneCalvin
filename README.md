@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **munenecalvn@gmail.com**
 
-- ⚡ Fun fact **I'm a student of ALX Software Engineering Program**
-
 
  ## 🌐 Socials:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/calvin-munene)
