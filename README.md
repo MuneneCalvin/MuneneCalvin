@@ -6,7 +6,7 @@
 
 - 🌱 I’m also learning **AWS Cloud Practioning**
 
-- 💬 You can ask me about **Web & Software Development**
+- 💬 You can ask me about **Software & Web Development**
 
 - 📫 How to reach me **munenecalvn@gmail.com**
 
