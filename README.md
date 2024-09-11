@@ -46,8 +46,18 @@
 
 <hr>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote and Joke
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
+</details>
 
 
 ---
