@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a **Flutter & Dart App**
 
-- 🌱 I’m also learning **AWS Cloud Practioning**
+- 🌱 I’m also learning **AWS Solution Architect**
 
 - 💬 You can ask me about **Software & Web Development**
 
